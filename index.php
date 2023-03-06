@@ -36,6 +36,8 @@
     echo("Sua terceira nota é:" . $terceiro);
     echo("</br>");
     echo("Sua média é:" . $media);
+
+    
 ?>
 </body>
 </html>
